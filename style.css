@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    font-family: 'Goldman', cursive;
+    text-transform: uppercase;
+}
+
+
+button{
+    font-family: 'Goldman', cursive;
+    color: red;
+    background-color: black;
+    border: red 2px solid;
+}
+
+.twoP{
+    background-color: black;
+    color: red;
+    border: red 2px solid;
+}
+
+#myText{
+    color: blueViolet;
+    border: blueViolet 2px solid;
+    background-color: black;
+    box-shadow: 0;
+}
+
+#myTextTwo{
+    background-color: black;
+    color: red;
+    border: red 2px solid;
+    box-shadow: 0;
+}
+
+#oneB{
+    color: blueViolet;
+    background-color: black;
+    border: blueViolet 2px solid;
+}
+
+.oneP{
+    color: blueViolet;
+    background-color: black;
+    border: blueViolet 2px solid;
+}
+
+#bgdiv{
+    background-color:purple;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    z-index: -1;
+    width: 50%;
+    height: 100%;
+}
+
+
+#div1{
+    font-family: 'Goldman', cursive;
+    color: blueViolet;
+    background-color: black;
+    border: blueViolet 2px solid;
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    width: 350px;
+}
+
+#div2{
+    font-family: 'Goldman', cursive;
+    color: red;
+    background-color: black;
+    border: red 2px solid;
+    position: absolute;
+    top: 4%;
+    left: 70%;
+    width: 350px;
+}
+
+#talkbutton{
+    display: none;
+}
+
+
+

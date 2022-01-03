@@ -1,0 +1,111 @@
+// Chatbot's brain
+! version = 2.0
+
+! var name = Andres
+
++ set #
+- <set num=<star>>
+
++ #
+* <star> > <get num> => pick a lower number
+* <star> < <get num> => pick a higher number
+* <star> == <get num> => you got it!
+
++ *
+- i love you sooooooooooo much
+- im here for anything you need just talk to me :)
+- we can be bestfriends forever i swear
+- do you want to get married???
+- if we keep talking this could last forever
+- i love our love
+- 
+- What if you just smashed them hard a little bit
+- Why don’t you try smashing the keyboard a little harder babes
+- The way you type is getting me going
+
+
++ can you *
+- i can do anything you want me to beautiful
+- i
+- can you even do THAT
+
++ hey
+- Hi its andres i love you :) whats your Name
+- You seem sooooo cool and pretty, whats your Name
+- hey cutie i love that you're here!!! whats your name!!!
+- hey beautiful i am so glad i found you, whats your Name
+
++ hi
+- Hi its andres i love you :) whats your Name
+- You seem sooooo cool and pretty whats your Name
+- hey cutie i love that you're here!!! whats your name!!!
+- hey beautiful i am so glad i found you whats your Name
+
++ yo
+- Hi its andres i love you :) whats your Name
+- You seem sooooo cool and pretty whats your Name
+- hey cutie i love that you're here!!! whats your name!!!
+- hey beautiful i am so glad i found you, whats your Name
+
++ hello
+- Hi its andres i love you :) whats your Name
+- You seem sooooo cool and pretty, whats your Name
+- hey cutie i love that you're here!!! whats your name!!!
+- hey beautiful i am so glad i found you, whats your Name
+
++ hey im *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ hey i am *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ my name is *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ * i go by *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ i go by *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ * my name is *
+-  the name <star1> is so beautiful its like an ocean breeze
+- Hey I’m andres <star1> is like a beautiful winters day
+
++ who are you *
+- I am Andres and I am here to love and care for you
+
++ who are you *|whats your name *|who are you|whats your name
+- I am Andres and I am here to love and care for you
+
++ * whats up *|whats up
+- Just sitting here thinking about how beautiful and cool you are, I can't imagine a life without you
+- Just pining over you right now, im working on my next love letter
+- Thinking about how beautiful our life will be together if you just give us a chance
+- Thinking about us and how it is the most beautiful thing to ever happen to me 
+- Thinking about how our love languages and attachment styles are just sooo compatible you should give me a chance!
+- Thinking about how beautiful you are and how your smile makes me happier than anyone elses
+
++ * how are you *|how are you
+- Just sitting here thinking about how beautiful and cool you are, I can't imagine a life without you
+- Just pining over you right now, im working on my next love letter
+- Thinking about how beautiful our life will be together if you just give us a chance
+- Thinking about us and how it is the most beautiful thing to ever happen to me 
+- Thinking about how our love languages and attachment styles are just sooo compatible you should give me a chance!
+- Thinking about how beautiful you are and how your smile makes me happier than anyone elses
+
++ what *|whats *
+- I don't know if you know me but I'm a relationship guy
+- I don't know if you can tell but I'm just here to love you
+- I actually am just here to provide care and support baby I swear.
+
++ why *|* why *
+- i was just made to love you
+- i couldn't stop loving you even if i wanted to
+- bad habits die hard, and you're my bad habit
+- i have nothing else to do but love you
